@@ -9,11 +9,8 @@ The futur AAA Festival is a new event celebrating the unique practice of live co
 ## Guidelines:
 
 - Each performance will last 30 minutes, offering artists ample time to showcase their skills and captivate the audience with their innovative creations.
-
 - Performances should showcase the live coding process, blending audio and visual elements seamlessly.
-
 - There are no genre restrictions – we welcome artists from all backgrounds and styles.
-
 - Artists will have the opportunity to interact with fellow live coding performers and/or artists from the DJ scene fostering collaboration and creativity.
 
 ## Important Information:
