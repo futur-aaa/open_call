@@ -2,9 +2,9 @@
 
 Hey fellow artist,
 
-We are looking for live coding artists who are interested in contributing to our Algorave at the futur AAA festival.
+We are looking for live coding artists who are interested in contributing to our Algorave at the [futur AAA](https://futur-aaa.com/) festival.
 
-The futur AAA Festival is a new event celebrating the unique practice of live coding to produce immersive, on-the-fly audio and visual artwork. As a satellite event to this year's International Conference on Live Coding (ICLC) in Shanghai, our festival aims to showcase the diverse talents and creative potential of live coders from around the world.
+The futur AAA Festival is a new event celebrating the unique practice of live coding to produce immersive, on-the-fly audio and visual artwork. As a satellite event to this year's [International Conference on Live Coding (ICLC)](https://iclc.toplap.org/2024/index.html) in Shanghai, our festival aims to showcase the diverse talents and creative potential of live coders from around the world.
 
 ## Guidelines:
 
@@ -28,12 +28,15 @@ If you're interested in being part of our Algorave lineup, please submit the fol
 
 - A brief artist bio highlighting your experience in live coding and any relevant projects or performances.
 - Links to examples of your work, showcasing your live coding skills and artistic vision.  
-- A short statement outlining your approach to live coding and what you hope to bring to the futur AAA Festival.
+- A short statement outlining your approach to live coding and what you hope to bring to the futur AAA Festival
+- An indication if you want to be paired with an visual/audio artist if you only want to perform in one domain.
 
 **Deadline for Submissions:**
 **15th May, 2024**
 
-We look forward to receiving your submissions and experiencing the magic of live coding together at the futur AAA festival!
+We look forward to receiving your submissions and experiencing the magic of live coding together at the futur AAA festival! Let's celebrate together :-D !
+
+
 
 Best regards,  
 Christopher (harte echtzeit) and Martin (MC Algorhythm)
