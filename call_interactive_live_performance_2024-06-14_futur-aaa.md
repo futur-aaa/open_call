@@ -24,7 +24,7 @@ We are specifically looking for a project/installation that showcases the depth 
 - We have applied for funding but cannot guarantee any compensation for expenses
 - We can cover camping and sleeping options
 
-Please send us a short description of your planned contribution (short text, drawings, mockups, whatever suits you) and a link to work you have done so far to info@futur-aaa.com. The **deadline** for this call is **May 10th, 2024**.
+Please send us a short description of your planned contribution (short text, drawings, mockups, whatever suits you) and a link to work you have done so far to info@futur-aaa.com. The **deadline** for this call is ~~**May 10th, 2024**~~ **May 15th, 2024**.
 
 We are very happy to make you part of this festival. Let's celebrate together :-D !
 
